@@ -1,4 +1,4 @@
-# Nubia-Z17-NX563J-Official-2.58
+# Nubia-Z17-NX563J-Official-3.06
 
 <p align="center">
 <img src="http://ui.nubia.cn/upload/image/Z17.jpg" width="200" heigth="auto"></img>
@@ -8,11 +8,16 @@ This rom is based on official rom downloaded from `http://ui.nubia.cn/rom/detail
 
 ```
 ROM file:
-NX563J-update-ROMV258.zip 2,5G sep 15 09:07
+Name. Z17(NX563J)V3.06
+MD5:A5A4FDD75CFD896DACB1BEBDC129300
+Size: 2.45G
+Release Date: 2017-09-18
+Password: 993u
+Official download link: http://pan.baidu.com/s/1qXJCIYg
 ```
 
 ## Official ROM file
-Official ROM file was downloaded on 15/sep/2017 from http://pan.baidu.com/s/1sle83nv
+Official ROM file was downloaded on 19/sep/2017 from http://pan.baidu.com/s/1qXJCIYg
 
 ```
 $ file NX563J-update-ROMV258.zip 
@@ -21,6 +26,39 @@ $ md5sum NX563J-update-ROMV258.zip
 e6cca1b77d6dbf0aca963191bbf2df11  NX563J-update-ROMV258.zip
 $ sha256sum NX563J-update-ROMV258.zip 
 bff029761cbe617de6d06eda90ee13b739a68da41205c33bd9caeea4148b144d  NX563J-update-ROMV258.zip
+```
+
+## Whats new in this version 3.06
+Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+```
+Release Notes
+
+This update fixes the system bug and optimizes the experience.
+
+system
+
+Optimization: WLAN performance
+Optimization: touch screen use effect
+Optimization: System stability
+
+Fix: third-party application pressure button use problem
+Fix: Partial scene brightness display problem
+Fix: Car Bluetooth instability problem
+Fix: Fingerprint unlocking problem
+
+camera
+
+Optimize: camera taking effect
+
+tool
+
+Fix: Conference projection problem
+Fix: Super Screenshot Mobile phone box preview shows incorrect problem
+
+application
+
+Repair: Netease cloud music lock screen after the black screen problem
+This update optimization includes but is not limited to the items listed above!
 ```
 
 ## Whats new in this version 2.58 
