@@ -8,12 +8,12 @@ This rom is based on official rom downloaded from `http://ui.nubia.cn/rom/detail
 
 ```
 ROM file:
-Name. Z17(NX563J)V3.06
-MD5:A5A4FDD75CFD896DACB1BEBDC129300
+Name. Z17(NX563J)V3.08
+MD5:17E86358EC9527215F0E3C2EA8FC4DB4
 Size: 2.45G
 Release Date: 2017-09-18
 Password: 993u
-Official download link: http://pan.baidu.com/s/1qXJCIYg
+Official download link: https://drive.google.com/uc?id=0BxwftIzWyQh7eldfMjduWS1nSmM&export=download
 ```
 
 ## Official ROM file
@@ -23,9 +23,19 @@ Official ROM file was downloaded on 19/sep/2017 from http://pan.baidu.com/s/1qXJ
 $ file NX563J-update-ROMV258.zip 
 NX563J-update-ROMV258.zip: Java archive data (JAR)
 $ md5sum NX563J-update-ROMV258.zip
-e6cca1b77d6dbf0aca963191bbf2df11  NX563J-update-ROMV258.zip
+17e86358ec9527215f0e3c2ea8fc4db4  NX563J-update-ROMV258.zip
 $ sha256sum NX563J-update-ROMV258.zip 
-bff029761cbe617de6d06eda90ee13b739a68da41205c33bd9caeea4148b144d  NX563J-update-ROMV258.zip
+1cd582aa1c76190e77bbb364a7f0746c90f967def4f5796786d7c88d578f7f89  NX563J-update-ROMV258.zip
+```
+
+## Whats new in this version 3.08
+Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+```
+Release Notes
+
+This update fixes the system bug and optimizes the experience.
+
+system
 ```
 
 ## Whats new in this version 3.06
