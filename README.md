@@ -1,4 +1,4 @@
-# Nubia-Z17-NX563J-Official-3.06
+# Nubia-Z17-NX563J-Official
 
 <p align="center">
 <img src="http://ui.nubia.cn/upload/image/Z17.jpg" width="200" heigth="auto"></img>
