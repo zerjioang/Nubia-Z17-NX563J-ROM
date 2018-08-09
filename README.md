@@ -28,6 +28,112 @@ $ sha256sum NX563J-update-ROMV258.zip
 1cd582aa1c76190e77bbb364a7f0746c90f967def4f5796786d7c88d578f7f89  NX563J-update-ROMV258.zip
 ```
 
+## Whats new in this version 4.30
+Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+```
+Release Notes
+
+Update log:
+
+new features:
+New: Face recognition
+
+Problem improvement:
+Fix: Probability of desktop layout cannot be switched to 5*5
+Fix: The issue of holiday wallpaper switch status is abnormal
+Fix: The status bar time is not refreshed
+Fix: Probabilistic non-connected priority network after WLAN restart
+Fix: The personal control panel in QQ shows an abnormal problem
+Fix: A problem with the Karton problem when the QQ album is sliding
+Fix: WeChat and QQ cannot receive messages in some scenarios
+Fix: Chain application flashback problem
+```
+
+## Whats new in this version 4.24
+Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+```
+Release Notes
+
+System Optimization:
+
+· System application re-optimization, starting speed like lightning
+· The underlying framework is continuously optimized, and the list slides more smoothly
+· File system continuous optimization, faster processing of files
+· More scenes intelligent scheduling, let the experience calm as ever
+· More than 30 more optimizations, faster than faster
+
+new features:
+
+· Breath icon is fully upgraded
+Dial: Animated reminder of missed calls, more vivid and intuitive
+Weather: When the weather changes, the number on the icon beats
+Flash pass: During the process of transferring files in the background using flash transfer, the animation shows the transfer status and stops after the transfer is completed.
+Recording: Display the recording status, the animation stops after the recording stops or pauses.
+Nubia roaming: people are abroad, the icon will have a plane crossing, you can stop after entering the application
+· Pressure button supports gallery, browser, application center and more applications
+
+· Game mode
+
+Game background behavior restrictions, improve game performance
+Block FiT, fingerprint screenshots and normal split screen functions in the game to prevent accidental touch breaks
+Block message notifications and system pop-ups in the game to avoid hiding the game interface
+
+Problem improvement:
+
+·New: Calendar added World Cup schedule reminder function
+·Optimization: charging scene reminder
+·Optimization: Remove the desktop flashlight shortcut icon, the flashlight can be turned on in the control center
+·Optimization: The system application "My Files" was renamed to "File Management"
+· Fix: The problem with the permissions setting in Notepad and the weather is abnormal.
+· Fix: The problem of flashing in portrait mode in my file
+```
+
+## Whats new in this version 4.16
+Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+```
+Release Notes
+
+System Optimization:
+Deep optimization of system application, smoother operation experience
+The underlying framework is globally updated, and the smooth experience goes further.
+Optimized memory scheduling scenarios, smooth application experience
+System power consumption continues to optimize, mobile phone life is more durable
+More than 90 items are optimized, and the overall speed is faster than faster.
+
+new features:
+Game mode, enjoy the ultimate gaming experience
+· Added "game mode" in the settings
+· Turn on "Game Mode" guide for popular games
+·Keys prevent accidental touch, shield bottom navigation keys
+·Functional anti-missing, shielding split screen, fingerprint screen capture, edge gestures, etc.
+
+Problem improvement:
+Repair: Ann Bunny running points failed
+Fix: Input method probabilistic unusable problem
+Fix: The problem of the floating ball custom function is abnormal
+Fix: Double click on the bright screen is not sensitive
+Fix: "Netease Koala" application flashback problem
+Optimization: game loading speed
+```
+
+
+## Whats new in this version 4.06
+Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+```
+Release Notes
+
+Multi-dimensional depth optimization of the system, the operating experience is more enjoyable
+Application of abnormal behavior monitoring, mobile phone life is more durable
+CPU, GPU intelligent scheduling, the game is dripping
+Core components are processed in parallel, and applications load like lightning
+New thread scheduling optimization, smooth and smooth animation
+New file system rendering for faster response
+Intelligent resource preloading to increase disk life
+Background application freeze technology, application runs more smoothly
+Adapt to the glory of the king, high frame rate, open black more refreshing
+More than 100 more optimizations, faster than faster
+```
+
 ## Whats new in this version 3.08
 Automatically transalted from chinese using Google Transaltor. Just be aware of it.
 ```
