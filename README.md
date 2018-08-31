@@ -17,7 +17,7 @@ Official download link: https://drive.google.com/uc?id=0BxwftIzWyQh7eldfMjduWS1n
 ```
 
 ## Official ROM file
-Official ROM file was downloaded on 19/sep/2017 from http://pan.baidu.com/s/1qXJCIYg
+Official ROM file was downloaded on from http://romdownload.nubia.com/Z17/V4.34/NX563J-update.zip
 
 ```
 $ file NX563J-update-ROMV258.zip 
@@ -26,6 +26,40 @@ $ md5sum NX563J-update-ROMV258.zip
 17e86358ec9527215f0e3c2ea8fc4db4  NX563J-update-ROMV258.zip
 $ sha256sum NX563J-update-ROMV258.zip 
 1cd582aa1c76190e77bbb364a7f0746c90f967def4f5796786d7c88d578f7f89  NX563J-update-ROMV258.zip
+```
+
+## Whats new in this version 4.34
+Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+```
+Z17 (NX563J) V4.34 (official version)
+Release date: 2018-08-29
+
+●Update log:
+
+new features
+
+Added: In-game network protection function
+Added: constant brightness protection in the game
+Added: Game mode message DND
+Added: Weather Sunset Sunrise Time View
+New: Weather forecast for the next 24 hours
+
+Other improvements
+
+Optimization: Increase the list of popular games in game mode
+Optimization: weather and flash interface visual effects
+Optimization: Control Center Visual Effects
+Optimization: brightness adjustment scheme
+Optimization: Jedi survival game experience
+
+Fix: The dual card setting interface cannot select the APN problem.
+Fix: Multi-task cleanup is not clean
+Fix: The problem that the control center can't slide out in some scenarios
+Fix: Baidu take-out gets the problem of abnormal phone permissions
+Fix: 365 calendar, Netease news self-starting problem
+Fix: No problem with game sound after using voice to text function in King Glory
+
+This update includes, but is not limited to, the items listed above.
 ```
 
 ## Whats new in this version 4.30
