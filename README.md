@@ -25,24 +25,48 @@ This rom is based on official rom downloaded from `http://ui.nubia.cn/rom/detail
 
 ```
 ROM file:
-Name. Z17(NX563J)V3.08
-MD5:17E86358EC9527215F0E3C2EA8FC4DB4
-Size: 2.45G
-Release Date: 2017-09-18
-Password: 993u
-Official download link: https://drive.google.com/uc?id=0BxwftIzWyQh7eldfMjduWS1nSmM&export=download
+Name. Z17(NX563J)V6.27
+MD5:BB1EC5011E628BFC37566D886BC42AB8
+Size: 2.27GB
+Release Date: 2020-05-27
+Official download link: http://romdownload.nubia.com/Z17/V6.27/NX563J-update.zip
 ```
 
 ## Official ROM file
-Official ROM file was downloaded on from http://romdownload.nubia.com/Z17/V4.34/NX563J-update.zip
+Official ROM file was downloaded on from http://romdownload.nubia.com/Z17/V6.27/NX563J-update.zip
 
 ```
 $ file NX563J-update.zip 
 NX563J-update.zip: Java archive data (JAR)
 $ md5sum NX563J-update.zip
-17e86358ec9527215f0e3c2ea8fc4db4  NX563J-update.zip
-$ sha256sum NX563J-update.zip 
-1cd582aa1c76190e77bbb364a7f0746c90f967def4f5796786d7c88d578f7f89  NX563J-update.zip
+BB1EC5011E628BFC37566D886BC42AB8  NX563J-update.zip
+```
+
+## Whats new in this version 6.27
+Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+```
+Z17 (NX563J) V6.27 (official version)
+
+Release Date: 2020-05-27
+
+Release Notes
+
+system
+
+Optimization: Google security patch update
+Optimization: stability optimization and improvement
+
+Features
+
+New: Three-finger screenshot function
+Optimization: App installation process
+Fix: Probabilistic crash when entering Bilibili
+
+Vision
+
+Optimization: charging animation and theme update
+
+The optimized content of this update includes but is not limited to the items listed above
 ```
 
 ## Whats new in this version 4.34
