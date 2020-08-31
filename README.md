@@ -1,8 +1,25 @@
-# Nubia-Z17-NX563J-Official
+# Nubia-Z17-NX563J
 
 <p align="center">
 <img src="http://ui.nubia.cn/upload/image/Z17.jpg" width="200" heigth="auto"></img>
 </p>
+
+ZTE Nubia Z17 (codenamed "nx563j") is a high-range smartphone from Nubia.
+It was released in June 2017.
+
+Basic   | Spec Sheet
+-------:|:-------------------------
+CPU     | Quad-core 2.45 GHz Kryo 280 & Quad-core 1.9 GHz Kryo 280
+Chipset | Qualcomm MSM8998 Snapdragon 835
+GPU     | Adreno 540
+Memory  | 6/8 GB RAM
+Android Version | 7.1.1
+Storage | 64/128 GB
+Battery | Li-Ion 3200mAh battery
+Display | 1080 x 1920 pixels, 5.5 inches
+Back camera  | Dual 23/12 MP, f/1.8, phase detection autofocus, dual-LED (dual tone) flash
+
+## Download official ROM files from Nubia
 
 This rom is based on official rom downloaded from `http://ui.nubia.cn/rom/detail/42` under next information:
 
@@ -20,12 +37,12 @@ Official download link: https://drive.google.com/uc?id=0BxwftIzWyQh7eldfMjduWS1n
 Official ROM file was downloaded on from http://romdownload.nubia.com/Z17/V4.34/NX563J-update.zip
 
 ```
-$ file NX563J-update-ROMV258.zip 
-NX563J-update-ROMV258.zip: Java archive data (JAR)
-$ md5sum NX563J-update-ROMV258.zip
-17e86358ec9527215f0e3c2ea8fc4db4  NX563J-update-ROMV258.zip
-$ sha256sum NX563J-update-ROMV258.zip 
-1cd582aa1c76190e77bbb364a7f0746c90f967def4f5796786d7c88d578f7f89  NX563J-update-ROMV258.zip
+$ file NX563J-update.zip 
+NX563J-update.zip: Java archive data (JAR)
+$ md5sum NX563J-update.zip
+17e86358ec9527215f0e3c2ea8fc4db4  NX563J-update.zip
+$ sha256sum NX563J-update.zip 
+1cd582aa1c76190e77bbb364a7f0746c90f967def4f5796786d7c88d578f7f89  NX563J-update.zip
 ```
 
 ## Whats new in this version 4.34
@@ -217,29 +234,29 @@ Automatically transalted from chinese using Google Transaltor. Just be aware of 
 ```
 Z17 (NX563J) V2.58 (official version)
 
-	Change Description:
+Change Description:
 
-	This update fixes the system bug and optimizes the experience!
+This update fixes the system bug and optimizes the experience!
 
-	system
+system
 
-	Added: System security
-	Repair: run the problem is not accurate
+Added: System security
+Repair: run the problem is not accurate
 
-	camera
+camera
 
-	Optimization: Shooting effects
-	Fix: small apes search questions can not take pictures
+Optimization: Shooting effects
+Fix: small apes search questions can not take pictures
 
-	small tools
+small tools
 
-	Fix: Super Screenshots Added Z17 Phone Case Style
+Fix: Super Screenshots Added Z17 Phone Case Style
 
-	application
+application
 
-	Repair: king glory flash problem
+Repair: king glory flash problem
 
-	This update optimization includes but is not limited to the items listed above!
+This update optimization includes but is not limited to the items listed above!
 
 Micro-cloud link http://url.cn/5cWYFYL
 
@@ -251,29 +268,31 @@ Micro-cloud link http://url.cn/5cWYFYL
 ● Problems encountered in the use of feedback in the forum product feedback section
 ```
 
-## Root dir file definition
+## ROM Editing and Hacking
+
+### ROM root dir file explanation
 ```
 
-adspso.bin:        Compiled code inside related to audio. ext4 filesystem data.
-boot.img:          Android bootimg. Unpacked under ./unpacked/boot.img
-BTFM.bin:          
-cmnlib64.mbn:      
-cmnlib.mbn:        
-devcfg.mbn:        
-emmc_appsboot.mbn: 
-file_contexts:     text file
-hyp.mbn:           
-keymaster.mbn:     
-META-INF:          integrity & hashing dir check files
-NON-HLOS.bin:      WIFI/Modem firmware file
-pmic.elf:          
-recovery:          directory
-recovery.img:      Android recovery image
-rpm.mbn:           
-splash.img:        ROM splash image. unknown version. 1 or 2
-system:            ROM main dir
-tz.mbn:            
-xbl.elf:           
+           adspso.bin:        Compiled code inside related to audio. ext4 filesystem data.
+[EDITABLE] boot.img:          Android bootimg. Unpackable under ./unpacked/boot.img
+           BTFM.bin:          Bluetooth Firmware binary
+           cmnlib64.mbn:      Bootloader Firmware binary?
+           cmnlib.mbn:        Bootloader Firmware binary?
+           devcfg.mbn:        
+           emmc_appsboot.mbn: this is the LK ELF image. This file is built by Linaro, from sources.
+           file_contexts:     text file
+           hyp.mbn:           Qualcome Hypervisor (called QHEE in QCOM vocabulary)
+           keymaster.mbn:     
+           META-INF:          integrity & hashing dir check files
+           NON-HLOS.bin:      WIFI/Modem, DSP, WLAN firmware file
+           pmic.elf:          
+           recovery:          directory
+[EDITABLE] recovery.img:      Android recovery image
+           rpm.mbn:           RPM firmware.
+[EDITABLE] splash.img:        ROM splash image. unknown version. 1 or 2
+[EDITABLE] system:            ROM system partition filesystem
+           tz.mbn:            TZ (Qualcomm's TrustZone implementation) firmware
+           xbl.elf:           
 ```
 # Contribution
 
