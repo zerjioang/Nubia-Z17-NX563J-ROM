@@ -43,13 +43,10 @@ BB1EC5011E628BFC37566D886BC42AB8  NX563J-update.zip
 ```
 
 ## Whats new in this version 6.27
-Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+Automatically transalted from chinese using Google Translator. Just be aware of it.
 ```
-Z17 (NX563J) V6.27 (official version)
 
-Release Date: 2020-05-27
-
-Release Notes
+Update log
 
 system
 
@@ -69,8 +66,230 @@ Optimization: charging animation and theme update
 The optimized content of this update includes but is not limited to the items listed above
 ```
 
+## Whats new in this version 6.25
+Automatically transalted from chinese using Google Translator. Just be aware of it.
+```
+Update log
+
+nubia UI7.0 fresh|smart
+
+Mavericks Voice 3.0
+Social, WeChat send red envelopes, scan, open the payment code, etc.
+Pay, Alipay opens the payment code, recharges the phone bill, and pays for life
+Travel, support booking air tickets, train tickets, find nearby food, etc.
+System control, set alarm clock, add schedule, world clock
+More voice interaction, on call, giving you a smarter life experience
+
+Smart Service Card
+Fast service, direct access to common functions in one step
+Third-party quick application cards, support more services
+
+Other updates
+New: Super screenshot supports recording system sound
+Optimized: the rules for completing the deletion of desktop icons
+Optimization: Weather application vision, adding weather forecast portal for the next 15 days
+
+More than 100 optimizations, just to bring a better experience
+```
+
+## Whats new in this version 6.21
+Automatically transalted from chinese using Google Translator. Just be aware of it.
+```
+
+No update log information
+```
+
+## Whats new in this version 6.15
+Automatically transalted from chinese using Google Translator. Just be aware of it.
+```
+
+WARNING:
+
+Beyond what you have seen, the system is newly upgraded to Android P (9.0)
+
+· Precautions:
+
+1. Because this version is newly developed based on Android P, some historical version functions (app clones, fingerprint screenshots, etc.) have not been integrated. In order to avoid data deletion due to non-integrated functions, please backup your personal data before upgrading. Resume after completion;
+
+2. Due to the cross-platform upgrade, the Dolby team has not authorized and technical support for the cross-platform version, so this version will no longer carry Dolby sound effects, and this version update will be equipped with Qualcomm system sound effects by default;
+
+3. After the version upgrade is completed, the system will automatically clear the fingerprint data and wifi data. For fingerprint data, you can re-enter and use it. The wifi data can be backed up through the built-in backup application before the upgrade, and restored after the upgrade is complete;
+
+4. After upgrading this Android P version, if you want to go back to the previous version, you need to back up the phone data first, and then upgrade the historical SD card package after double clearing, and you can use it normally after completion.
+
+Update log
+
+Quick reply in the notification center, easier message processing
+Negative screen gathers more service cards and enjoys a more convenient lifestyle
+The visual effects of multiple applications have been optimized, and the presentation interface has been renewed
+More animation effect adjustment, smoother operation experience
+More than 100 detailed optimizations, more surprises waiting for you to discover
+
+communication
+
+Optimization: call sound effects in some scenes
+Repair: SMS reporting error in some scenarios
+
+multimedia
+
+Optimization: overall camera operating experience
+Fix: The camera reports an error in some scenes
+
+desktop
+
+Optimization: the card display effect of the multitasking interface
+
+system
+
+Optimization: fingerprint function experience
+Optimization: Split screen function experience
+Optimization: system performance
+
+tool
+
+Fix: The problem of clock reporting errors in some scenarios
+
+The optimized content of this update includes but is not limited to the items listed above
+```
+
+## Whats new in this version 4.45
+Automatically transalted from chinese using Google Translator. Just be aware of it.
+```
+
+Update log
+
+Mavericks Voice
+
+New: Set alarms, set reminders, turn on the flashlight, and more control functions
+Optimization: texting experience, support full-process voice control
+Optimization: call experience, support full-process voice control
+
+communication
+
+New: Telecom VOLTE function
+
+desktop
+
+Fix: Error reporting on desktop in some scenarios
+Fix: The issue where the edge sliding up/down function fails in edge gestures
+Fix: The problem of inconsistency between fingerprint unlocking and password unlocking in certain scenarios
+
+Gallery
+
+Fix: Errors in the gallery in some scenes
+
+phone Guardian
+
+Fix: In some scenarios, butler harassment interception error report
+
+Set up
+
+Repair: setting error in some scenarios
+
+my file
+
+Fix: The problem of abnormal search files in my files
+Fix: The progress bar of the notification bar is abnormal when deleting files that failed to upload in the cloud disk
+
+system
+
+New: Automatically grab red envelope function after facial recognition unlocked
+Fix: The system interface crashes in some scenarios
+Fix: The problem of abnormal low battery reminder in game mode
+
+third-party usage
+
+Fix: In some scenes in "TIM", long press the text can not pop up the copy option
+Fix: "WeChat" middle right swipe back to the chat interface abnormal problem
+Repair: "Easy letter" can not create a phone shortcut icon problem
+Fix: The red envelope assistant function in "WeChat" is invalid
+```
+
+## Whats new in this version 4.40
+Automatically transalted from chinese using Google Translator. Just be aware of it.
+```
+
+Update log
+
+communication
+
+Fix: SMS crashing issue in some scenarios
+
+desktop
+
+Fix: The display of desktop icons is delayed after unlocking
+Fix: Some scene control center cannot be pulled out
+
+media
+
+Fix: The problem that the screen cannot be stopped when playing music
+
+tool
+
+Fix: One-handed mode cannot be turned on
+Fix: An abnormal problem occurs when backing up data in the background and then entering the backup
+
+system
+
+Repair: the problem of abnormal unlocking with fingerprint encryption
+Fix: The boot wizard crashes in some scenarios
+Fix: The setting application crashes in some scenarios
+
+third-party usage
+
+Repair: 360 cleanup master crashes issue
+Repair: QQ scans the contact QR code to save the information abnormally
+Fix: Are you hungry when using Alipay in certain scenarios?
+Fix: The problem of abnormal desktop prompt when downloading glory of the king
+```
+
+## Whats new in this version 4.39
+Automatically transalted from chinese using Google Translator. Just be aware of it.
+```
+
+Update log
+
+nubia UI 6.0, smart ecology, think what you think.
+
+Visual changes
+
+Brand new visual experience, more comfortable visual enjoyment
+The interface is simpler and lighter, and the information content is clear and clear
+Young color system, more sophisticated interface details
+
+Smart Service Card
+
+Application suggestions, intelligently recommend recent frequently used applications
+Schedule reminder, remind the last three days of air tickets, train tickets and other schedules
+Hot news, smart recommendation hot news
+Daily life services, providing convenient services when arriving at restaurants, shopping malls and other scenes
+Camera family, showing the features of Nubian special cameras
+Intelligent travel, automatically determine commuting time and plan travel plans
+
+desktop
+
+New game center
+New quick app, you can use it without installation after searching for related apps
+When the user uninstalls the application, the subsequent icon will automatically fill in the position
+
+theme
+
+New theme for 6.0 Standard Edition
+
+File management
+
+The document display interface supports filtering by file type,
+Including document classification, WeChat document, QQ document and favorite document
+In music and picture applications, support for viewing resources in multiple ways
+File management application homepage adds cleaning acceleration function
+
+phone Guardian
+
+Intelligently identify and classify WeChat files to make cleaning more convenient
+```
+
 ## Whats new in this version 4.34
-Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+Automatically transalted from chinese using Google Translator. Just be aware of it.
 ```
 Z17 (NX563J) V4.34 (official version)
 Release date: 2018-08-29
@@ -104,7 +323,7 @@ This update includes, but is not limited to, the items listed above.
 ```
 
 ## Whats new in this version 4.30
-Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+Automatically transalted from chinese using Google Translator. Just be aware of it.
 ```
 Release Notes
 
@@ -125,7 +344,7 @@ Fix: Chain application flashback problem
 ```
 
 ## Whats new in this version 4.24
-Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+Automatically transalted from chinese using Google Translator. Just be aware of it.
 ```
 Release Notes
 
@@ -164,7 +383,7 @@ Problem improvement:
 ```
 
 ## Whats new in this version 4.16
-Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+Automatically transalted from chinese using Google Translator. Just be aware of it.
 ```
 Release Notes
 
@@ -193,7 +412,7 @@ Optimization: game loading speed
 
 
 ## Whats new in this version 4.06
-Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+Automatically transalted from chinese using Google Translator. Just be aware of it.
 ```
 Release Notes
 
@@ -210,7 +429,7 @@ More than 100 more optimizations, faster than faster
 ```
 
 ## Whats new in this version 3.08
-Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+Automatically transalted from chinese using Google Translator. Just be aware of it.
 ```
 Release Notes
 
@@ -220,7 +439,7 @@ system
 ```
 
 ## Whats new in this version 3.06
-Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+Automatically transalted from chinese using Google Translator. Just be aware of it.
 ```
 Release Notes
 
@@ -254,7 +473,7 @@ This update optimization includes but is not limited to the items listed above!
 
 ## Whats new in this version 2.58 
 
-Automatically transalted from chinese using Google Transaltor. Just be aware of it.
+Automatically transalted from chinese using Google Translator. Just be aware of it.
 ```
 Z17 (NX563J) V2.58 (official version)
 
