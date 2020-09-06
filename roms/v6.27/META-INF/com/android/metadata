@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:321         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=nubia/NX563J/NX563J:9/PKQ1.181021.001/eng.nubia.20200516.132320:user/release-keys
+post-build-incremental=eng.nubia.20200516.132320
+post-sdk-level=28
+post-security-patch-level=2020-04-05
+post-timestamp=1589606573
+pre-device=NX563J
