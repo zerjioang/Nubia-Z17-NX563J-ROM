@@ -25,21 +25,55 @@ This rom is based on official rom downloaded from `http://ui.nubia.cn/rom/detail
 
 ```
 ROM file:
-Name. Z17(NX563J)V6.27
-MD5:BB1EC5011E628BFC37566D886BC42AB8
-Size: 2.27GB
-Release Date: 2020-05-27
-Official download link: http://romdownload.nubia.com/Z17/V6.27/NX563J-update.zip
+Name. Z17(NX563J)V6.28
+MD5:97C8D26F8C09C98A5E1B0E84D71B59F6
+Size: 2.3GB
+Release Date: 2020-11-24
+Official download link: http://romdownload.nubia.com/Z17/V6.28/NX563J-update.zip
 ```
 
 ## Official ROM file
-Official ROM file was downloaded on from http://romdownload.nubia.com/Z17/V6.27/NX563J-update.zip
+Official ROM file was downloaded on from http://romdownload.nubia.com/Z17/V6.28/NX563J-update.zip
 
 ```
 $ file NX563J-update.zip 
 NX563J-update.zip: Java archive data (JAR)
 $ md5sum NX563J-update.zip
 BB1EC5011E628BFC37566D886BC42AB8  NX563J-update.zip
+```
+
+
+## Whats new in this version 6.28
+Automatically transalted from chinese using Google Translator. Just be aware of it.
+```
+
+Z17 (NX563J) V6.28 (versión oficial)
+Fecha de lanzamiento: 2020-11-24
+
+Notas de lanzamiento
+
+sistema
+
+Actualización: parche de seguridad de Google a la última
+Optimización: mejora de la estabilidad
+
+comunicación
+
+Nuevo: compatible con la función China Unicom Volte
+Reparación: Probablemente no hay problemas de red al realizar llamadas
+
+Visión
+
+Optimización: actualización del logotipo de la marca nubia
+
+otro
+
+Solución: bloqueo probabilístico al descargar aplicaciones en el Centro de aplicaciones
+Arreglo: informe de error probabilístico de aplicación rápida
+Solución: falla probabilística del asistente de voz para crear un reloj despertador
+
+
+El contenido optimizado de esta actualización incluye, entre otros, los elementos enumerados anteriormente
 ```
 
 ## Whats new in this version 6.27
